@@ -1,0 +1,61 @@
+Explore the Customers Table
+Your first objective is to gain insights into the customer base, examining demographics, account activity, and customer statuses.
+
+Tasks:
+What is the total number of customers? Break down by customer status (e.g., Active, Inactive, Closed).
+
+What is the age range of customers, and what is the average age?
+
+How many customers opened accounts in each year (e.g., find the number of accounts opened per year)?
+
+What are the most common customer statuses and the average account duration for each?
+
+How many customers fall into each status category? Are there customers with multiple accounts, and what are their statuses?
+
+Explore the Accounts Table
+This objective focuses on understanding account characteristics such as balance ranges, account types, and credit limits.
+
+Tasks:
+What is the total number of accounts by type (e.g., Savings, Checking, Credit)?
+
+What are the minimum, maximum, and average balances within each account type?
+
+What is the average interest rate and credit limit for each account type?
+
+Which accounts have a balance of over $10,000? Provide the associated customer details and account types.
+
+What is the distribution of credit limits among active accounts?
+
+Explore the Transactions Table
+This objective helps you understand the transaction data, examining frequency, transaction types, and amounts.
+
+Tasks:
+What is the date range of transactions in the transactions table?
+
+How many transactions are recorded in total, and what is the average transaction amount for credits and debits?
+
+What are the minimum and maximum transaction amounts, and which accounts do they involve?
+
+Identify high-value transactions (e.g., above $5,000). How many of these transactions occurred within the last six months?
+
+What are the most common transaction types? Calculate the average amount per transaction type.
+
+What is the monthly transaction volume and total amount for credits and debits?
+
+Analyze Customer Behavior
+Your final objective is to combine customer, account, and transaction data to gain insights into customer behavior, spending patterns, and high-value customers.
+
+Tasks:
+Combine customer and account data to view each customer’s account status, type, and balance.
+
+Combine customer, account, and transaction data to create a comprehensive view of customer transactions.
+
+Identify the top 5 customers with the highest transaction amounts. What types of transactions do they most frequently make?
+
+What are the least and most frequent transaction types associated with active customers?
+
+Who are the top 5 customers with the highest total balances? Include account types and average transaction amounts.
+
+Find customers with overdrawn accounts (negative balance) and list their recent transaction history.
+
+BONUS: Review the details of the highest transaction in the database. What was the transaction type, account type, and customer involved?
